@@ -1,0 +1,7 @@
+C:\Users\Arun\Documents\Docker_IMP\DOCKERWEBAPI_PUBLISH\obj\Release\netcoreapp3.1\PubTmp\Out\DOCKERWEBAPI_PUBLISH.exe
+C:\Users\Arun\Documents\Docker_IMP\DOCKERWEBAPI_PUBLISH\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\Arun\Documents\Docker_IMP\DOCKERWEBAPI_PUBLISH\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\Arun\Documents\Docker_IMP\DOCKERWEBAPI_PUBLISH\obj\Release\netcoreapp3.1\PubTmp\Out\DOCKERWEBAPI_PUBLISH.dll
+C:\Users\Arun\Documents\Docker_IMP\DOCKERWEBAPI_PUBLISH\obj\Release\netcoreapp3.1\PubTmp\Out\DOCKERWEBAPI_PUBLISH.deps.json
+C:\Users\Arun\Documents\Docker_IMP\DOCKERWEBAPI_PUBLISH\obj\Release\netcoreapp3.1\PubTmp\Out\DOCKERWEBAPI_PUBLISH.runtimeconfig.json
+C:\Users\Arun\Documents\Docker_IMP\DOCKERWEBAPI_PUBLISH\obj\Release\netcoreapp3.1\PubTmp\Out\DOCKERWEBAPI_PUBLISH.pdb

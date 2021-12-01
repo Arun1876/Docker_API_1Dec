@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5Ow6HFzdS1r2Ncs7RjRoUygHxcTdR2mPmPo6uNGJQnO9bBtfraZgguzPWum6J9jZp2wusG5kb+g8iGOGHDWIBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Arun\\Documents\\Docker_IMP\\DOCKERWEBAPI_PUBLISH\\DOCKERWEBAPI_PUBLISH.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arun\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
